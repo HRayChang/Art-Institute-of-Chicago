@@ -14,6 +14,7 @@
 		73150D072B91E12F00A450F1 /* Artwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73150D062B91E12F00A450F1 /* Artwork.swift */; };
 		73150D092B9306B200A450F1 /* ArtworkViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73150D082B9306B200A450F1 /* ArtworkViewModel.swift */; };
 		73150D0B2B93102A00A450F1 /* ArtworkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73150D0A2B93102A00A450F1 /* ArtworkView.swift */; };
+		73150D0D2B93169300A450F1 /* ArtworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73150D0C2B93169300A450F1 /* ArtworkDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		73150D062B91E12F00A450F1 /* Artwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
 		73150D082B9306B200A450F1 /* ArtworkViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtworkViewModel.swift; sourceTree = "<group>"; };
 		73150D0A2B93102A00A450F1 /* ArtworkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtworkView.swift; sourceTree = "<group>"; };
+		73150D0C2B93169300A450F1 /* ArtworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtworkDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				73150CF72B91DEB200A450F1 /* ContentView.swift */,
 				73150D0A2B93102A00A450F1 /* ArtworkView.swift */,
+				73150D0C2B93169300A450F1 /* ArtworkDetailView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				73150D0B2B93102A00A450F1 /* ArtworkView.swift in Sources */,
 				73150D072B91E12F00A450F1 /* Artwork.swift in Sources */,
 				73150CF62B91DEB200A450F1 /* Art_Institute_of_ChicagoApp.swift in Sources */,
+				73150D0D2B93169300A450F1 /* ArtworkDetailView.swift in Sources */,
 				73150D092B9306B200A450F1 /* ArtworkViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
