@@ -8,11 +8,21 @@
 import SwiftUI
 
 struct ArtworkDetailView: View {
+    let artwork: Artwork
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ScrollView {
+            // view
+            
+            Text(artwork.title)
+                .font(.title)
+                .padding()
+        }
+        .navigationTitle("Artwork Details")
+        .navigationBarTitleDisplayMode(.inline)
     }
 }
 
 #Preview {
-    ArtworkDetailView()
+    ArtworkDetailView(artwork: previewArtwork)
 }
