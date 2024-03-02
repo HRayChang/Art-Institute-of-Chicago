@@ -13,6 +13,7 @@
 		73150CFD2B91DEB300A450F1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73150CFC2B91DEB300A450F1 /* Preview Assets.xcassets */; };
 		73150D072B91E12F00A450F1 /* Artwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73150D062B91E12F00A450F1 /* Artwork.swift */; };
 		73150D092B9306B200A450F1 /* ArtworkViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73150D082B9306B200A450F1 /* ArtworkViewModel.swift */; };
+		73150D0B2B93102A00A450F1 /* ArtworkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73150D0A2B93102A00A450F1 /* ArtworkView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		73150CFC2B91DEB300A450F1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		73150D062B91E12F00A450F1 /* Artwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
 		73150D082B9306B200A450F1 /* ArtworkViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtworkViewModel.swift; sourceTree = "<group>"; };
+		73150D0A2B93102A00A450F1 /* ArtworkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtworkView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +58,6 @@
 			isa = PBXGroup;
 			children = (
 				73150CF52B91DEB200A450F1 /* Art_Institute_of_ChicagoApp.swift */,
-				73150CF72B91DEB200A450F1 /* ContentView.swift */,
 				73150D052B91E0A100A450F1 /* Model */,
 				73150D042B91E09200A450F1 /* Views */,
 				73150D032B91E08500A450F1 /* ViewModel */,
@@ -85,6 +86,8 @@
 		73150D042B91E09200A450F1 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				73150CF72B91DEB200A450F1 /* ContentView.swift */,
+				73150D0A2B93102A00A450F1 /* ArtworkView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				73150CF82B91DEB200A450F1 /* ContentView.swift in Sources */,
+				73150D0B2B93102A00A450F1 /* ArtworkView.swift in Sources */,
 				73150D072B91E12F00A450F1 /* Artwork.swift in Sources */,
 				73150CF62B91DEB200A450F1 /* Art_Institute_of_ChicagoApp.swift in Sources */,
 				73150D092B9306B200A450F1 /* ArtworkViewModel.swift in Sources */,
