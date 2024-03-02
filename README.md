@@ -1,6 +1,8 @@
 
 <div align="center">
+
 # Art Institute of Chicago
+
 ![Static Badge](https://img.shields.io/badge/Swift-5.0-orange?logo=swift&style=for-the-badge) 
 ![Static Badge](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge) 
 ![Static Badge](https://img.shields.io/badge/iOS-17.2+-lightgrey?style=for-the-badge)
@@ -27,7 +29,6 @@ This project focuses on building an iOS app using the MVVM architecture and inte
 - Xcode 15.1
 
 ## 📲 Features
-swiftui combine restfulapi
 - Adhere to the **Model-View-ViewModel (MVVM)** architecture to ensure separation of concerns and maintainability in the codebase.
 - Develop **RESTful APIs** using **Combine** in Swift to efficiently handle asynchronous operations and network requests.
 - Leverage **Combine** framework to seamlessly bind data between **ViewModels** and **Views**, enabling reactive user interfaces.
@@ -40,5 +41,7 @@ swiftui combine restfulapi
 
 ## 📝 License
 This project is [MIT](https://github.com/HRayChang/Art-Institute-of-Chicago/blob/main/LICENSE) licensed.
+
 <br />
+
 Copyright © 2024 [Ray Chang](https://github.com/HRayChang).
