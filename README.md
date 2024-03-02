@@ -39,4 +39,4 @@
 
 <!-- ABOUT THE PROJECT -->
 <h2>About The Project</h2>
-![Artwork Home](https://github.com/HRayChang/Art-Institute-of-Chicago/assets/111962195/09c5f690-3a3a-4f61-830f-37f4d2f45c57)
+<a><img src="https://github.com/HRayChang/Art-Institute-of-Chicago/assets/111962195/09c5f690-3a3a-4f61-830f-37f4d2f45c57" alt="Awesome README Templates" /></a>
