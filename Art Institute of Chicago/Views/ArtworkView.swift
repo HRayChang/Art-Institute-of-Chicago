@@ -12,7 +12,7 @@ struct ArtworkView: View {
     
     var body: some View {
         NavigationLink {
-            
+            ArtworkDetailView(artwork: artwork)
         } label: {
             Text(artwork.title)
         }
