@@ -2,10 +2,10 @@
 <p align="center"><i>A project involving the implementation of RESTful APIs in Combine within the MVVM architecture.</i></p>
 <div align="center">
     <a href="https://github.com/HRayChang/Art-Institute-of-Chicago/stargazers"><img src="https://img.shields.io/github/stars/HRayChang/Art-Institute-of-Chicago" alt="Stars Badge"/></a>
-    <a href="https://github.com/HRayChang/Art-Institute-of-Chicago/network/members"><img src="https://img.shields.io/github/forks/elangosundar/awesome-README-templates" alt="Forks Badge"/></a>
-    <a href="https://github.com/HRayChang/Art-Institute-of-Chicago/pulls"><img src="https://img.shields.io/github/issues-pr/elangosundar/awesome-README-templates" alt="Pull Requests Badge"/></a>
-    <a href="https://github.com/HRayChang/Art-Institute-of-Chicago/issues"><img src="https://img.shields.io/github/issues/elangosundar/awesome-README-templates" alt="Issues Badge"/></a>
-    <a href="https://github.com/elangosundar/awesome-README-templates/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/elangosundar/awesome-README-templates?color=2b9348"></a>
-    <a href="https://github.com/elangosundar/awesome-README-templates/blob/master/LICENSE"><img src="https://img.shields.io/github/license/elangosundar/awesome-README-templates?color=2b9348" alt="License Badge"/></a>
+    <a href="https://github.com/HRayChang/Art-Institute-of-Chicago/network/members"><img src="https://img.shields.io/github/forks/HRayChang/Art-Institute-of-Chicago" alt="Forks Badge"/></a>
+    <a href="https://github.com/HRayChang/Art-Institute-of-Chicago/pulls"><img src="https://img.shields.io/github/issues-pr/HRayChang/Art-Institute-of-Chicago" alt="Pull Requests Badge"/></a>
+    <a href="https://github.com/HRayChang/Art-Institute-of-Chicago/issues"><img src="https://img.shields.io/github/issues/HRayChang/Art-Institute-of-Chicago" alt="Issues Badge"/></a>
+    <a href="https://github.com/HRayChang/Art-Institute-of-Chicago/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/HRayChang/Art-Institute-of-Chicago?color=2b9348"></a>
+    <a href="https://github.com/HRayChang/Art-Institute-of-Chicago/blob/master/LICENSE"><img src="https://img.shields.io/github/license/HRayChang/Art-Institute-of-Chicago?color=2b9348" alt="License Badge"/></a>
 </div>
 
