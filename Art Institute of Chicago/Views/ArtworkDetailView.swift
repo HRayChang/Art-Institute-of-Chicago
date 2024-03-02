@@ -12,7 +12,7 @@ struct ArtworkDetailView: View {
     
     var body: some View {
         ScrollView {
-            // view
+            artworkImageView
             
             Text(artwork.title)
                 .font(.title)
@@ -20,6 +20,20 @@ struct ArtworkDetailView: View {
         }
         .navigationTitle("Artwork Details")
         .navigationBarTitleDisplayMode(.inline)
+    }
+    
+    @ViewBuilder var artworkImageView: some View {
+        if let imageId = artwork.imageId,
+           let imageURL = URL(string: "https://www.artic.edu/iiif/2/\(imageId)/full/843,/0/default.jpg") {
+            AsyncImage(url: imageURL) { image in
+                image.resizable()
+                .aspectRatio(contentMode: .fit)
+            } placeholder: {
+                ProgressView()
+            }
+        } else {
+            Text("Image is not available")
+        }
     }
 }
 
