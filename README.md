@@ -9,7 +9,7 @@
 
 A project involving the implementation of RESTful APIs in Combine within the MVVM architecture.
 
-<img src="https://github.com/HRayChang/Art-Institute-of-Chicago/assets/111962195/bbff8f27-d855-46d0-a361-dde70b0631b0" alt="Artwork" style="max-width: 500px;">
+<img src="https://github.com/HRayChang/Art-Institute-of-Chicago/assets/111962195/bbff8f27-d855-46d0-a361-dde70b0631b0" alt="Artwork" style="max-width: 400px;">
 </div>
 
 
