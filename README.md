@@ -8,7 +8,11 @@
 ![Static Badge](https://img.shields.io/badge/iOS-17.2+-lightgrey?style=for-the-badge)
 
 A project involving the implementation of RESTful APIs in Combine within the MVVM architecture.
+
+![Artwork](https://github.com/HRayChang/Art-Institute-of-Chicago/assets/111962195/bbff8f27-d855-46d0-a361-dde70b0631b0)
 </div>
+
+
 
 <details>
   <summary>Table of Contents</summary>
