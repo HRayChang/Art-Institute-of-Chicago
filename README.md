@@ -54,5 +54,5 @@ This project is [MIT](https://github.com/HRayChang/Art-Institute-of-Chicago/blob
 <br />
 
 <div align="center">
-Copyright © 2024 [Ray Chang](https://github.com/HRayChang).
+Copyright © 2024 RayChang
 </div>
