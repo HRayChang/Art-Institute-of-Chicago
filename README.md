@@ -13,7 +13,7 @@ A project involving the implementation of RESTful APIs in Combine within the MVV
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#📖 introduction">Introduction</a></li>
+    <li><a href="#📖-introduction">Introduction</a></li>
     <li><a href="#requirements">Requirements</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#author">Author</a></li>
