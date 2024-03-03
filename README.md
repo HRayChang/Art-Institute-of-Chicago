@@ -9,7 +9,7 @@
 
 A project involving the implementation of RESTful APIs in Combine within the MVVM architecture.
 
-![Artwork](https://github.com/HRayChang/Art-Institute-of-Chicago/assets/111962195/bbff8f27-d855-46d0-a361-dde70b0631b0)
+<img src="https://github.com/HRayChang/Art-Institute-of-Chicago/assets/111962195/bbff8f27-d855-46d0-a361-dde70b0631b0" alt="Artwork" style="max-width: 500px;">
 </div>
 
 
@@ -29,10 +29,12 @@ A project involving the implementation of RESTful APIs in Combine within the MVV
 ## Introduction
 This project focuses on building an iOS app using the MVVM architecture and integrating RESTful APIs with Combine. MVVM separates UI logic from data management, while Combine facilitates reactive programming for asynchronous data flow.
 
+<!-- Requirements -->
 ## Requirements
 - iOS 17.2+
 - Xcode 15.1
 
+<!-- Features -->
 ## Features
 - Adhere to the **Model-View-ViewModel (MVVM)** architecture to ensure separation of concerns and maintainability in the codebase.
 - Develop **RESTful APIs** using **Combine** in Swift to efficiently handle asynchronous operations and network requests.
@@ -40,10 +42,12 @@ This project focuses on building an iOS app using the MVVM architecture and inte
 - Create **ViewModels** to encapsulate business logic and facilitate interaction between the presentation layer and underlying data models.
 - Implement proper memory management and error handling techniques using **Combine**, ensuring robustness and reliability in application behavior.
 
+<!-- Author -->
 ## Author
  **Ray Chang**
 * Email: [raychang861205@gmail.com]()
 
+<!-- License -->
 ## License
 This project is [MIT](https://github.com/HRayChang/Art-Institute-of-Chicago/blob/main/LICENSE) licensed.
 
