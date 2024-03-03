@@ -12,7 +12,7 @@ A project involving the implementation of RESTful APIs in Combine within the MVV
 <img src="https://github.com/HRayChang/Art-Institute-of-Chicago/assets/111962195/bbff8f27-d855-46d0-a361-dde70b0631b0" alt="Artwork" width="800">
 </div>
 
-
+<br />
 
 <details>
   <summary>Table of Contents</summary>
